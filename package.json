@@ -1,0 +1,29 @@
+{ "name": "idlequit-pmb",
+  "version": "0.0.1",
+  "description": "Inspired by autoquit but with a more explicit API.",
+  "keywords": [ "idle", "quit" ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/idlequit-pmb-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/idlequit-pmb-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/idlequit-pmb-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "iq.js",
+  "scripts": { "test": "nodejs test/all.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "devDependencies": {
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
